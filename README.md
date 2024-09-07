@@ -1,5 +1,5 @@
 # SSMS
-基于python3的学生成绩管理系统。管理员：admin密码：admin学生密码：123456   （项目较为基础简单）
+基于python3的学生成绩管理系统。管理员：admin密码：admin学生密码：123456
 
 ## 说明
 * 1、本系统采用python3的pymysql框架和mysql数据库进行数据管理
